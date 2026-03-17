@@ -1,13 +1,13 @@
-# Boas-vindas ao repositório do projeto CRUD de Usuários!
+# Boas-vindas ao repositório do projeto de teste CRUD de Usuários!
 
-Seja muito bem-vindo(a) ao repositório do Projeto CRUD de Usuários! Aqui você encontrará informações sobre o que foi desenvolvido neste projeto, bem como os principais aprendizados adquiridos durante o processo. Para explorar o conteúdo, basta clicar nas seções abaixo. Boa leitura! 🚀
+Seja muito bem-vindo(a) ao repositório do Projeto CRUD de Usuários! Aqui você encontrará informações sobre o que foi desenvolvido neste projeto, bem como os principais aprendizados adquiridos durante o processo. Para explorar o conteúdo, basta clicar nas seções abaixo. Boa leitura!
 
 <br/>
 
 <details>
   <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
-Neste projeto foi desenvolvido um sistema completo de CRUD (Create, Read, Update, Delete) de usuários, utilizando:
+Neste projeto eu desenvolvi um sistema completo de CRUD (Create, Read, Update, Delete) de usuários, utilizando:
 
 * **Vue.js** no front-end
 * **Node.js + Express** no back-end
