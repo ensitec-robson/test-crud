@@ -1,6 +1,10 @@
 # Boas-vindas ao repositório do projeto de teste CRUD de Usuários!
 
-Seja muito bem-vindo(a) ao repositório do Projeto CRUD de Usuários! Aqui você encontrará informações sobre o que foi desenvolvido neste projeto, bem como os principais aprendizados adquiridos durante o processo. Para explorar o conteúdo, basta clicar nas seções abaixo. Boa leitura!
+<img width="810" height="735" alt="image" src="https://github.com/user-attachments/assets/42ba7e7f-71ef-4a8b-9375-24511eb3eb95" />
+
+
+Seja muito bem-vindo(a) ao repositório do Projeto de test CRUD de Usuários! Aqui você encontrará informações sobre o que foi desenvolvido neste projeto, bem como os principais aprendizados adquiridos durante o processo. Para explorar o conteúdo, basta clicar nas seções abaixo. Boa leitura!
+
 
 <br/>
 
