@@ -189,8 +189,8 @@ Body:
 
 ```json
 {
-  "name": "Rick Sanchez",
-  "email": "rick@multiverse.com"
+  "name": "Robson Aires",
+  "email": "robsonaires@outlook.com"
 }
 ```
 
